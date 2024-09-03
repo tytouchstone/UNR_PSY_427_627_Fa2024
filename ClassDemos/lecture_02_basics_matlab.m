@@ -28,9 +28,30 @@ sqrt(9)
 myString = 'this is a string.';
 disp(class(myString))
 
+fprintf
+sprintf
 
 % indexing
 % - arrays
 % - logical
 
+
+
+% Generate the string: 
+I can't imagine how to do this
+
+% Display two points of precision of pi (3.14149)
+display pi as a string with 2 decimal points
+
+
 %%
+x = -1:.002:1;
+x = pi * x * 3;
+y = sin(x);
+plot(x, y);
+
+%%
+my_range = linspace(-1, 1, 101);
+[x, y] = meshgrid(my_range,my_range);
+ss = sin(pi * x * 4);
+imagesc(ss)

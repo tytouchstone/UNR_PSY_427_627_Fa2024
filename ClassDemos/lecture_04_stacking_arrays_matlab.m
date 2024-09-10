@@ -63,6 +63,7 @@ imagesc(y);
 
 % Convert to polar coordinate (angle and radius instead of x and y)
 [theta, rho] = cart2pol(x, y);
+figure;
 imagesc(rho);
 
 %% threshold to get a circle!

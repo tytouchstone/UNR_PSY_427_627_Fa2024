@@ -46,9 +46,6 @@ ax.set_xticklabels(np.arange(0, n_points+1, 2), fontsize=tk_size, fontname=fontn
 ax.set_yticks(yticks)
 ax.set_yticklabels(yticks, fontsize=tk_size, fontname=fontname)
 
-import plot_utils
-plot_utils.open_axes(ax)
-
 # Assure that everything fits within figure
 plt.tight_layout 
 plt.show()

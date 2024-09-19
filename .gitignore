@@ -1,3 +1,8 @@
+# Temp dir
+tmp/*
+.DS_Store
+*asv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

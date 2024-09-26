@@ -16,8 +16,8 @@ Git accounts are free, please create one for yourself if you don't have one! It'
 ## Fork this repo to your own repo
 Once you have created your own account, please fork this repository into your own repository on your own page using the 'fork' button:
 
-<img src="Resources/git_fork_button.png" alt="fork button location" width="300"/>
+<img src="Resources/git_fork_button.png" alt="fork button location" width="800"/>
 
 You will get a menu like this:
 
-<img src="Resources/git_fork_options.png" alt="fork button location" width="300"/>
+<img src="Resources/git_fork_options.png" alt="fork button location" width="800"/>
